@@ -1,6 +1,6 @@
 config config_subscribe
 	option enabled '1'
-	option name '火烧云-自动'
+	option name '68云-自动'
 	option address '【订阅地址复制并覆盖这里】'
 	option sub_convert '1'
 	option template '0'
@@ -16,7 +16,7 @@ config config_subscribe
 
 config config_subscribe
 	option enabled '1'
-	option name '小牛-自动'
+	option name '红杏-自动'
 	option address '【订阅地址复制并覆盖这里】'
 	option sub_convert '1'
 	option template '0'
